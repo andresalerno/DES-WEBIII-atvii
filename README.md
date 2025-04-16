@@ -131,11 +131,11 @@ Acesse o seguinte link: [http://localhost:8081/swagger-ui/index.html#/]
 <div align="left">
 
 |                                                                    Tipo | Rota                     | Ação                               |
-| ----------------------------------------------------------------------: | :----------------------- | :--------------------------------- |            |
+| ----------------------------------------------------------------------: | :----------------------- | :--------------------------------- |            
 |    [![](https://img.shields.io/badge/GET-2E8B57?style=for-the-badge)]() | `http://localhost:8081/clientes/{id}/endereco`            | Listar endereço by id     |
 |   [![](https://img.shields.io/badge/POST-4682B4?style=for-the-badge)]() | `http://localhost:8081/clientes/{id}/endereco`          | Cadastro de endereço              |
-|    [![](https://img.shields.io/badge/PUT-9370DB?style=for-the-badge)]() | `http://localhost:8081/clientes/{id}/endereco`          | Alteração dos dados do cliente     |
-| [![](https://img.shields.io/badge/DELETE-CD853F?style=for-the-badge)]() | `http://localhost:8081/clientes/{id}/endereco`     | Exclusão de cliente             |
+|    [![](https://img.shields.io/badge/PUT-9370DB?style=for-the-badge)]() | `http://localhost:8081/clientes/{id}/endereco`          | Alteração dos dados do endereço     |
+| [![](https://img.shields.io/badge/DELETE-CD853F?style=for-the-badge)]() | `http://localhost:8081/clientes/{id}/endereco`     | Exclusão de endereço             |
 
 
 ### Modelos para JSON
