@@ -94,7 +94,7 @@ git clone https://github.com/andresalerno/DES-WEBIII-atvii.git
 
 2. Criação de um container
 ```powershell
-docker run -d --name atviii -p 3309:3306 -e MYSQL_ROOT_PASSWORD=salerno mysql:latest
+docker run -d --name atvii -p 3310:3306 -e MYSQL_ROOT_PASSWORD=salerno mysql:latest
 ```
 
 3. Estabelecendo uma comunicação com o container: WORKBENCH
